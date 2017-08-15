@@ -1,0 +1,62 @@
+html { 
+  background: url(../images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.prof-box {
+
+
+
+	width: 400px;
+	height: 500;
+
+	white-space : normal;
+	background: rgba(0, 0, 0, 0.4);
+	border-radius: 3px;
+	padding: 40px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	text-align: center;
+	text-overflow: ellipsis;
+
+
+}
+
+
+.prof-pic {
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+
+}
+h1{
+  font-weight: 200px;
+	font-size: 40px;
+	letter-spacing: 2px;
+
+}
+h5{
+	    font-weight: 200;
+}
+p{
+
+    font-size: smaller;
+}
+
+.social-icons {
+	font-size: 50px;
+}
+.social-icons a {
+	color: white;
+}
+.line-break {
+	width: 375px;
+	margin: 0 auto;
+	border-top: 1px solid white;
+}
