@@ -43,7 +43,7 @@ author = "Marvin Vilaysack"
 defaultTheme = "auto"
 
 [params.profileMode]
-enabled = false # Temporarily disable profile mode to test list view
+enabled = true
 title = "Hi there! 👋"
 subtitle = "This is my personal corner of the internet where I share my thoughts and experiences"
 imageUrl = "/assets/profile.png"
