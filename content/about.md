@@ -4,22 +4,16 @@ url: "/about/"
 summary: "about"
 ---
 
-# About Me
+## Hello there Stranger!
+Hello! I'm Marvin, and this is my personal blog. I'm a huge tech geek and spends a good amount of time building scalable applications. I fell in love with technology from games -- building game servers when I was a teenager for a game called Garry's Mod. When I am not coding I love to chasing the powder in the mountains with my snowboard, exploring new food scenes and learn more about the world around me with travel.
 
-Hello! I'm [Your Name], and this is my personal blog. I'm passionate about [your interests/profession] and love to [your hobbies/activities].
+This blog is just my digital journal to share my insights on tech, adventures, and unexpected findings.
 
-## Professional Life
 
-[Brief description of what you do professionally]
+### Behind this blog
 
-## Why I Blog
-
-I created this blog to:
-- Share my experiences and learnings
+- I wanted to create a digital journal to share my insights on tech, adventures, and unexpected findings.
 - Connect with like-minded people
 - Document my journey
 - Contribute to the community
 
-## Get in Touch
-
-Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/yourusername) or [GitHub](https://github.com/yourusername).
