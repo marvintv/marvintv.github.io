@@ -24,6 +24,10 @@ Content = "A place for my thoughts and experiences"
 [params.cover]
 linkFullImages = true
 
+[params.listView]
+enable = true
+showSummary = true
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 

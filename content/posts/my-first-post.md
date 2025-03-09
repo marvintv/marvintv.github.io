@@ -3,6 +3,7 @@ title: "Welcome to My Blog"
 date: 2025-03-08T21:30:00-08:00
 draft: false
 tags: ["personal", "introduction"]
+summary: "An introduction to my blog where I'll be sharing my thoughts on technology, programming, and personal experiences."
 ---
 
 # Welcome to My Personal Blog
