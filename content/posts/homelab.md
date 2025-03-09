@@ -1,7 +1,7 @@
 ---
 title: "My home lab"
 date: 2025-03-05T14:30:00-08:00
-draft: true
+draft: false
 tags: ["gaming", "programming", "career"]
 summary: "Tuning my old laptop into a Home lab"
 ShowReadingTime: true
