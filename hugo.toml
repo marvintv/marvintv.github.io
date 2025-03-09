@@ -9,6 +9,24 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
+# Enable menu
+[menu]
+main = [
+    {identifier = "posts", name = "Posts", url = "/posts/", weight = 10},
+    {identifier = "about", name = "About", url = "/about/", weight = 20}
+]
+
+# Enable post list view
+[params.homeInfoParams]
+Title = "Welcome to my blog"
+Content = "A place for my thoughts and experiences"
+
+[params.cover]
+linkFullImages = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
 [params]
 env = "production"
 description = "Welcome to my personal blog where I share my thoughts and experiences"
