@@ -28,6 +28,9 @@ linkFullImages = true
 showBreadcrumbs = true
 showSummary = true
 showTaxonomies = true
+showCards = true
+groupByYear = true
+cardView = true
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -40,7 +43,7 @@ author = "Marvin Vilaysack"
 defaultTheme = "auto"
 
 [params.profileMode]
-enabled = true
+enabled = false
 title = "Hi there! 👋"
 subtitle = "This is my personal corner of the internet where I share my thoughts and experiences"
 imageUrl = ""
