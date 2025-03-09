@@ -22,7 +22,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: recursive
           fetch-depth: 0
 
       - name: Setup Hugo
@@ -42,8 +42,8 @@ jobs:
         run: |
           pwd
           hugo version
-          hugo --minify --debug
-          ls -la
+          rm -rf public/
+          hugo --minify
           ls -la public/
           echo "Hugo build complete"
 
@@ -51,13 +51,10 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         if: success()
         with:
-          path: ./public
-          name: github-pages
+          path: public
           retention-days: 1
 
       - name: Deploy to GitHub Pages
         id: deployment
         if: github.ref == 'refs/heads/main'
         uses: actions/deploy-pages@v3
-        with:
-          artifact_name: github-pages
