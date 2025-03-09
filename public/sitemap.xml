@@ -8,10 +8,44 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-08T21:30:00-08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/building-scalable-apps/</loc>
+    <lastmod>2025-03-07T15:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/programming/</loc>
+    <lastmod>2025-03-07T15:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/scalability/</loc>
+    <lastmod>2025-03-07T15:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-07T15:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/technology/</loc>
+    <lastmod>2025-03-07T15:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/adventures/</loc>
+    <lastmod>2025-03-06T10:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/snowboarding-adventures/</loc>
+    <lastmod>2025-03-06T10:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/personal/</loc>
+    <lastmod>2025-03-06T10:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/snowboarding/</loc>
+    <lastmod>2025-03-06T10:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/career/</loc>
+    <lastmod>2025-03-05T14:30:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/garys-mod-servers/</loc>
+    <lastmod>2025-03-05T14:30:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gaming/</loc>
+    <lastmod>2025-03-05T14:30:00-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

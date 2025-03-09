@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Career on The Mind of Marvin</title>
+    <link>http://localhost:1313/tags/career/</link>
+    <description>Recent content in Career on The Mind of Marvin</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Mar 2025 14:30:00 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Garry&#39;s Mod to Software Engineering</title>
+      <link>http://localhost:1313/posts/garys-mod-servers/</link>
+      <pubDate>Wed, 05 Mar 2025 14:30:00 -0800</pubDate>
+      <guid>http://localhost:1313/posts/garys-mod-servers/</guid>
+      <description>How running Garry&amp;rsquo;s Mod servers as a teenager sparked my passion for software development.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on The Mind of Marvin</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on The Mind of Marvin</description>
+    <title>Programming on The Mind of Marvin</title>
+    <link>http://localhost:1313/tags/programming/</link>
+    <description>Recent content in Programming on The Mind of Marvin</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Mar 2025 15:00:00 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building Scalable Applications: Lessons Learned</title>
       <link>http://localhost:1313/posts/building-scalable-apps/</link>
       <pubDate>Fri, 07 Mar 2025 15:00:00 -0800</pubDate>
       <guid>http://localhost:1313/posts/building-scalable-apps/</guid>
       <description>Key insights from my experience building scalable applications and the important lessons learned along the way.</description>
-    </item>
-    <item>
-      <title>Chasing Powder: My Snowboarding Journey</title>
-      <link>http://localhost:1313/posts/snowboarding-adventures/</link>
-      <pubDate>Thu, 06 Mar 2025 10:00:00 -0800</pubDate>
-      <guid>http://localhost:1313/posts/snowboarding-adventures/</guid>
-      <description>Adventures and experiences from my snowboarding trips and the joy of finding perfect powder days.</description>
     </item>
     <item>
       <title>From Garry&#39;s Mod to Software Engineering</title>
