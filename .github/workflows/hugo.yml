@@ -47,11 +47,11 @@ jobs:
           HUGO_ENV: production
         run: |
           hugo --minify
+          ls -la public/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
-          name: github-pages
+          path: public
 
   # Deployment job
   deploy:
