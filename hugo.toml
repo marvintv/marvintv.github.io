@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://marvintv.github.io/'
 languageCode = 'en-us'
 title = 'The Mind of Marvin'
 theme = "PaperMod"
