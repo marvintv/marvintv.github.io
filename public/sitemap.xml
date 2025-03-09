@@ -44,6 +44,9 @@
     <loc>http://localhost:1313/tags/gaming/</loc>
     <lastmod>2025-03-05T14:30:00-08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/homelab/</loc>
+    <lastmod>2025-03-05T14:30:00-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

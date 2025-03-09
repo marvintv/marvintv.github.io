@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/posts/garys-mod-servers/</guid>
       <description>How running Garry&amp;rsquo;s Mod servers as a teenager sparked my passion for software development.</description>
     </item>
+    <item>
+      <title>My home lab</title>
+      <link>http://localhost:1313/posts/homelab/</link>
+      <pubDate>Wed, 05 Mar 2025 14:30:00 -0800</pubDate>
+      <guid>http://localhost:1313/posts/homelab/</guid>
+      <description>Tuning my old laptop into a Home lab</description>
+    </item>
   </channel>
 </rss>
