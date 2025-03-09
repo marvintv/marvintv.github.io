@@ -16,7 +16,6 @@ main = [
     {identifier = "about", name = "About", url = "/about/", weight = 20}
 ]
 
-# Enable post list view
 [params.homeInfoParams]
 Title = "Welcome to my blog"
 Content = "A place for my thoughts and experiences"
@@ -24,9 +23,11 @@ Content = "A place for my thoughts and experiences"
 [params.cover]
 linkFullImages = true
 
-[params.listView]
-enable = true
+# List View Settings
+[params.list]
+showBreadcrumbs = true
 showSummary = true
+showTaxonomies = true
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
