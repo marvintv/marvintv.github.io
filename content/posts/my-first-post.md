@@ -1,9 +1,20 @@
 ---
-title: "My First Post"
+title: "Welcome to My Blog"
 date: 2025-03-08T21:30:00-08:00
-draft: true
+draft: false
+tags: ["personal", "introduction"]
 ---
 
-# Your heading here
+# Welcome to My Personal Blog
 
-This is the content of my first blog post.
+Hello and welcome! This is the beginning of my blogging journey. I've created this space to share my thoughts, experiences, and learnings with you.
+
+## What to Expect
+
+I'll be writing about:
+- Technology and programming
+- Personal experiences and learnings
+- Projects I'm working on
+- And more...
+
+Stay tuned for more content coming soon!

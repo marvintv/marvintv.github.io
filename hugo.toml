@@ -1,4 +1,35 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Personal Blog'
 theme = "PaperMod"
+
+# Enable search
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+params:
+  env = "production"
+  description = "Welcome to my personal blog where I share my thoughts and experiences"
+  author = "Your Name"
+  # defaultTheme: light, dark, auto
+  defaultTheme = "auto"
+  
+  profileMode:
+    enabled = true
+    title = "Welcome! 👋"
+    subtitle = "This is my personal corner of the internet where I share my thoughts and experiences"
+    imageUrl = ""
+    imageTitle = "my photo"
+    buttons:
+      - name: Blog
+        url: posts
+      - name: About
+        url: about
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/yourusername"
+    - name: linkedin
+      url: "https://linkedin.com/in/yourusername"
