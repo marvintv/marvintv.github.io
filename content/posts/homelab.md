@@ -1,7 +1,7 @@
 ---
 title: "Building out my homelab: My recent interests and findings"
 date: 2025-03-05T14:30:00-08:00
-draft: true
+draft: false
 tags: ["gaming", "programming", "career"]
 summary: "Building a K3s Cluster on my Homelab"
 ShowReadingTime: true
