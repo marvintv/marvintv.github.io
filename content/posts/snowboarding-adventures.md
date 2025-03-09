@@ -1,7 +1,7 @@
 ---
 title: "Chasing Powder: My Snowboarding Journey"
 date: 2025-03-06T10:00:00-08:00
-draft: true
+draft: false
 tags: ["snowboarding", "adventures", "personal"]
 summary: "Adventures and experiences from my snowboarding trips and the joy of finding perfect powder days."
 ShowReadingTime: true

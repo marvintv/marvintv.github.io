@@ -1,7 +1,7 @@
 ---
 title: "Building Scalable Applications: Lessons Learned"
 date: 2025-03-07T15:00:00-08:00
-draft: true
+draft: false
 tags: ["technology", "programming", "scalability"]
 summary: "Key insights from my experience building scalable applications and the important lessons learned along the way."
 ShowReadingTime: true
