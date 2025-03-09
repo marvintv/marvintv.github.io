@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My Personal Blog'
+title = 'The Mind of Marvin'
 theme = "PaperMod"
 
 # Enable search
@@ -12,13 +12,13 @@ buildExpired = false
 [params]
 env = "production"
 description = "Welcome to my personal blog where I share my thoughts and experiences"
-author = "Your Name"
+author = "Marvin Vilaysack"
 # defaultTheme: light, dark, auto
 defaultTheme = "auto"
 
 [params.profileMode]
 enabled = true
-title = "Welcome! 👋"
+title = "Hi there! 👋"
 subtitle = "This is my personal corner of the internet where I share my thoughts and experiences"
 imageUrl = ""
 imageTitle = "my photo"
@@ -33,8 +33,8 @@ url = "about"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/yourusername"
+url = "https://github.com/marvintv"
 
 [[params.socialIcons]]
 name = "linkedin"
-url = "https://linkedin.com/in/yourusername"
+url = "https://linkedin.com/in/marvintv"
