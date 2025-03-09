@@ -9,27 +9,32 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
-params:
-  env = "production"
-  description = "Welcome to my personal blog where I share my thoughts and experiences"
-  author = "Your Name"
-  # defaultTheme: light, dark, auto
-  defaultTheme = "auto"
-  
-  profileMode:
-    enabled = true
-    title = "Welcome! 👋"
-    subtitle = "This is my personal corner of the internet where I share my thoughts and experiences"
-    imageUrl = ""
-    imageTitle = "my photo"
-    buttons:
-      - name: Blog
-        url: posts
-      - name: About
-        url: about
+[params]
+env = "production"
+description = "Welcome to my personal blog where I share my thoughts and experiences"
+author = "Your Name"
+# defaultTheme: light, dark, auto
+defaultTheme = "auto"
 
-  socialIcons:
-    - name: github
-      url: "https://github.com/yourusername"
-    - name: linkedin
-      url: "https://linkedin.com/in/yourusername"
+[params.profileMode]
+enabled = true
+title = "Welcome! 👋"
+subtitle = "This is my personal corner of the internet where I share my thoughts and experiences"
+imageUrl = ""
+imageTitle = "my photo"
+
+[[params.profileMode.buttons]]
+name = "Blog"
+url = "posts"
+
+[[params.profileMode.buttons]]
+name = "About"
+url = "about"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/yourusername"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/yourusername"
