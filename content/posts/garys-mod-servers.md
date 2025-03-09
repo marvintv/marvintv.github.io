@@ -1,7 +1,7 @@
 ---
 title: "From Garry's Mod to Software Engineering"
 date: 2025-03-05T14:30:00-08:00
-draft: false
+draft: true
 tags: ["gaming", "programming", "career"]
 summary: "How running Garry's Mod servers as a teenager sparked my passion for software development."
 ShowReadingTime: true
